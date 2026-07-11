@@ -16,3 +16,18 @@ Conformément aux directives de conception, les points d'accès (endpoints) util
 1. Installez les dépendances nécessaires :
    ```bash
    npm install
+
+ 2.Démarrez le serveur backend Node.js :
+    ```bash
+
+    npm start
+
+    Le serveur écoute activement sur le port 3000.
+
+3. Lancement du Frontend
+
+    Laissez le terminal du serveur ouvert et actif.
+
+    Ouvrez simplement le fichier index.html directement dans votre navigateur web (double-clic).
+
+    Saisissez un montant, sélectionnez vos devises et testez la communication en temps réel
